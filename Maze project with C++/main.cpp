@@ -1,8 +1,4 @@
-//author: Earnest Yu
-//date: 11/10/2014
-//Prof Urness
-//description: The Maze project
-//proposed points (12 of 10): All part is finished(including the bonus part)
+//author: Chenxi Yu
 
 #include <iostream>
 #include "Maze.h"
